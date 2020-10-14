@@ -7,9 +7,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello everyone! ![](Hi.gif)
-<li>Programming is my passion.</li>
-<li>I love to code in C, C++, & Python.</li>
+### 🙋‍♂️ Hello everyone!
+<p>Programming is my passion.</p>
+<p>I love to code in C, C++, & Python.</p>
   
 ## 😎 About me:
 <li>I am pursuing 🎓B.Tech in Electronics and Communication Engineering from NIT, Jalandhar (Punjab).</li>
@@ -22,11 +22,11 @@
 <p>🔹<a href="https://www.facebook.com/saikapiansanjay"><b> Facebook</b></a></p>
 
 ## 💬 Ask me about:
-<li>💻 Computer Programming (C, C++, Python)</li>
-<li>🔌 IoT (Internet of Things)</li>
-<li>☁ Cloud Computing</li>
-<li>📊 Data Analysis</li>
-<li>💼 MS Excel (VBA)</li>
+<p>💻 Computer Programming (C, C++, Python)</p>
+<p>🔌 IoT (Internet of Things)</p>
+<p>☁ Cloud Computing</p>
+<p>📊 Data Analysis</p>
+<p>💼 MS Excel (VBA)</p>
 
 ## 📧 Contact me on:
-<li><a href="mailto:itworld.6890@gmail.com"> itworld.6890@gmail.com</a></li>
+<p><a href="mailto:itworld.6890@gmail.com"> itworld.6890@gmail.com</a><p>
