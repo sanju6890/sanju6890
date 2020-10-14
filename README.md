@@ -7,7 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>Hello everyone! <a href="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"><b></b></a></h3>
+### Hello everyone! ![](Hi.gif)
 <li>Programming is my passion.</li>
 <li>I love to code in C, C++, & Python.</li>
   
