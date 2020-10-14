@@ -9,7 +9,7 @@
 -->
 ### 🙋‍♂️ Hello everyone!
 <p>Programming is my passion.</p>
-<p>I love to code in C, C++, & Python.</p>
+<p>I love to 👨‍💻 code in C, C++, & Python.</p>
   
 ## 😎 About me:
 <li>I am pursuing 🎓B.Tech in Electronics and Communication Engineering from NIT, Jalandhar (Punjab).</li>
