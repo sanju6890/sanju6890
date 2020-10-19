@@ -12,7 +12,7 @@
 <p>I love to 👨‍💻 code in C, C++, & Python.</p>
   
 ## 😎 About me:
-<li>I am pursuing 🎓B.Tech in Electronics and Communication Engineering from NIT, Jalandhar (Punjab).</li>
+<li>I am pursuing 🎓 B.Tech in Electronics and Communication Engineering from NIT, Jalandhar (Punjab).</li>
 <li>I am interested in Software Development, Internet of Things (IoT), Data Analysis, Web Development & Cloud Computing.</li>
 
 ## 🤝 Connect with me on:
