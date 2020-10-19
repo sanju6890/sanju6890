@@ -28,5 +28,7 @@
 <p>📊 Data Analysis</p>
 <p>💼 MS Excel (VBA)</p>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanju6890&show_icons=true&theme=radical) 
+
 ## 📧 Contact me on:
 <p><a href="mailto:itworld.6890@gmail.com"> itworld.6890@gmail.com</a><p>
