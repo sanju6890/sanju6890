@@ -21,7 +21,7 @@
 <p>🔹<a href="https://www.instagram.com/tech_deets.sanju_saikapian/"><b> Instagram</b></a></p>
 <p>🔹<a href="https://www.facebook.com/saikapiansanjay"><b> Facebook</b></a></p>
 
-## 💬 <a href="<a href="https://www.linkedin.com/in/sanjusaikapian6890/">Ask me about:</a>
+## 💬 Ask me about:
 <p>💻 Computer Programming (C, C++, Python)</p>
 <p>🔌 IoT (Internet of Things)</p>
 <p>☁ Cloud Computing</p>
