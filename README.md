@@ -21,14 +21,14 @@
 <p>🔹<a href="https://www.instagram.com/tech_deets.sanju_saikapian/"><b> Instagram</b></a></p>
 <p>🔹<a href="https://www.facebook.com/saikapiansanjay"><b> Facebook</b></a></p>
 
-## 💬 Ask me about:
+## 💬 <a href="<a href="https://www.linkedin.com/in/sanjusaikapian6890/">Ask me about:</a>
 <p>💻 Computer Programming (C, C++, Python)</p>
 <p>🔌 IoT (Internet of Things)</p>
 <p>☁ Cloud Computing</p>
 <p>📊 Data Analysis</p>
 <p>💼 MS Excel (VBA)</p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanju6890&show_icons=true&theme=radical) 
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanju6890&show_icons=true&theme=radical) -->
 
 ## 📧 Contact me on:
 <p><a href="mailto:itworld.6890@gmail.com"> itworld.6890@gmail.com</a><p>
