@@ -17,7 +17,7 @@
 
 ## 🤝 Connect with me on:
 <p>🔹 <a href="https://www.linkedin.com/in/sanjusaikapian6890/"><b>LinkedIn</b></a></p>
-<p>🔹 <a href="https://twitter.com/SanjayK25452873"><b>Twitter</b></a></p>
+<p>🔹 <a href="https://twitter.com/Sanjay6890"><b>Twitter</b></a></p>
 <p>🔹 <a href="https://www.quora.com/profile/Sanjay-Kumar-26145"><b>Quora</b></a></p>
 <p>🔹 <a href="https://www.instagram.com/tech_deets.sanju_saikapian/"><b>Instagram</b></a></p>
 <p>🔹 <a href="https://www.facebook.com/saikapiansanjay"><b>Facebook</b></a></p>
