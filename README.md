@@ -9,7 +9,7 @@
 -->
 ### 🙋‍♂️ Hello everyone!
 <p>Programming is my passion.</p>
-<p>I love to 👨‍💻 code in C, C++, & Python.</p>
+<p>I love programming 👨‍💻 in C, C++, & Python.</p>
   
 ## 😎 About me:
 <li>I am pursuing 🎓 B.Tech in Electronics and Communication Engineering from NIT, Jalandhar (Punjab).</li>
@@ -21,6 +21,7 @@
 <p>🔹 <a href="https://www.quora.com/profile/Sanjay-Kumar-26145"><b>Quora</b></a></p>
 <p>🔹 <a href="https://www.instagram.com/tech_deets.sanju_saikapian/"><b>Instagram</b></a></p>
 <p>🔹 <a href="https://www.facebook.com/saikapiansanjay"><b>Facebook</b></a></p>
+<p>🔹 <a href="https://www.youtube.com/channel/UC9T-10QkQhxHJ09tkHrVh0g"><b>YouTube</b></a></p>
 
 ## 💬 Ask me about:
 <p>💻 Computer Programming (C, C++, Python)</p>
@@ -28,8 +29,10 @@
 <p>☁ Cloud Computing</p>
 <p>📊 Data Analysis</p>
 <p>💼 MS Excel (VBA)</p>
+<p>✍ Technical Content Writing</p>
 
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanju6890&show_icons=true&theme=radical) -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sanju6890&show_icons=true&theme=radical)
 
 ## 📧 Contact me on:
 <p><a href="mailto:itworld.6890@gmail.com"> itworld.6890@gmail.com</a><p>
