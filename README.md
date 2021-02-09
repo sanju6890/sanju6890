@@ -7,13 +7,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🙋‍♂️ Hello everyone!
+### 👋 Hello Everyone!
 <p>Programming is my passion.</p>
 <p>I love programming 👨‍💻 in C, C++, & Python.</p>
+<p>I am looking to collaborate on any project related to Python 🐍.</p>
   
 ## 😎 About me:
-<li>I am pursuing 🎓 B.Tech in Electronics and Communication Engineering from NIT, Jalandhar (Punjab).</li>
-<li>I am interested in Software Development, Internet of Things (IoT), Data Analysis, Web Development & Cloud Computing.</li>
+<li>I am pursuing 🎓 B.Tech in Electronics and Communication Engineering from 🏫 NIT, Jalandhar (Punjab).</li>
+<li>I am interested in Technical Content Writing, Software Development, Internet of Things (IoT), Data Analysis, Web Development & Cloud Computing.</li>
 
 ## 🤝 Connect with me on:
 <p>🔹 <a href="https://www.linkedin.com/in/sanjusaikapian6890/"><b>LinkedIn</b></a></p>
