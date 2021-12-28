@@ -6,7 +6,7 @@ I am pursuing 🎓 B.Tech in Electronics and Communication Engineering (Major) &
 
 
 ## 🔗 Links:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/nitj.ac.in/sanjay-kumar)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sanjay-kumar-portfolio.herokuapp.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaykumar086/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sanjay6890/)
 
@@ -14,7 +14,7 @@ I am pursuing 🎓 B.Tech in Electronics and Communication Engineering (Major) &
 <p>💻 Computer Programming with C, C++, & Python</p>
 <p>🐍 Python Scripting</p>
 <p>📊 Data Analysis (Python)</p>
-<p>👨‍💻 GUI-App Development (Tkinter)</p>
+<p>👨‍💻 Django Developer</p>
 <p>🐧 Linux Operating System (CLI)</p>
 <p>✍ Technical Writing</p>
 
