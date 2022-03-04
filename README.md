@@ -2,7 +2,7 @@
 <p>This is <a href="https://sites.google.com/nitj.ac.in/sanjay-kumar"><b>Sanjay Kumar</b></a> who loves to explore new technologies. I am looking to collaborate on any project related to Python 🐍.</p>
   
 ## 😎 About me:
-I am pursuing 🎓 B.Tech in Electronics and Communication Engineering (Major) & Computer Science and Engineering (Minor) from 🏫 NIT, Jalandhar (Punjab). My tech skills include Python scripting, GUI-App Development using Python Tkinter, Data Analysis using Python & MS Excel, and Technical Content Writing. I am interested in Software Development, Internet of Things (IoT), Machine Learning (ML), Data Analysis, Web Development & Cloud Computing.
+I am pursuing 🎓 B.Tech in Electronics and Communication Engineering (Major) & Computer Science and Engineering (Minor) from 🏫 NIT, Jalandhar (Punjab). My tech skills include Python Scripting, Web Development [Flask & Django Framework] GUI-App Development [Python Tkinter], Data Analysis [Python & MS Excel], and Technical Content Writing. I am interested in Software Development, Internet of Things (IoT), Machine Learning (ML), Data Analysis, Web Development & Cloud Computing.
 
 
 ## 🔗 Links:
@@ -14,9 +14,9 @@ I am pursuing 🎓 B.Tech in Electronics and Communication Engineering (Major) &
 <p>💻 Computer Programming with C, C++, & Python</p>
 <p>🐍 Python Scripting</p>
 <p>📊 Data Analysis (Python)</p>
-<p>👨‍💻 Django Developer</p>
-<p>🐧 Linux Operating System (CLI)</p>
-<p>✍ Technical Writing</p>
+<p>👨‍💻 Flask & Django Developer</p>
+<p>🐧 Linux CLI</p>
+<p>✍ Technical Content Writing</p>
 
 
 ![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=sanju6890&show_icons=true&theme=radical)
